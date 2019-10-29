@@ -140,12 +140,13 @@ h2 ~ p {
   background-color: #000;
   box-sizing: border-box;
   display: block;
-  height: 10vh;
+  height: 12vh;
   left: -30px;
+  margin-left: 3vh;
   padding: 10px;
   position: relative;
   text-align: center;
-  width: 10vh;
+  width: 20vh;
 }
 .header-logo img {
   height: 80%;
@@ -252,7 +253,7 @@ h2 ~ p {
   text-align: center;
 }
 .footer img {
-  width: 50px;
+  width: 150px;
 }
 .footer h3 {
   color: #fff;
